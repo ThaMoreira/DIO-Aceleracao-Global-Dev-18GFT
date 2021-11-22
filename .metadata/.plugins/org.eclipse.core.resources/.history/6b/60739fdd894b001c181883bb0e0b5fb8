@@ -1,0 +1,24 @@
+package application;
+
+import java.util.Scanner;
+
+public class Montanha_russa {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int count =0;
+		while (sc.hasNext()) {
+		int N = sc.nextInt();
+		int Amin = sc.nextInt();
+		int Amax = sc.nextInt();
+		if(N>Amax) {
+			count ++;
+		}
+			
+		}
+		System.out.println(count);
+		sc.close();
+
+	}
+
+}

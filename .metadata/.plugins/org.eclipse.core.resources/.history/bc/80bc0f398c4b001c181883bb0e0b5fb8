@@ -1,0 +1,16 @@
+package application;
+
+import java.util.Scanner;
+
+public class Cachorro_quente {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner (System.in);
+		int H = sc.nextInt();
+		int P = sc.nextInt();
+		float numMedio=H/P;
+		System.out.println(numMedio);
+
+	}
+
+}
