@@ -1,4 +1,4 @@
-🚀 # Aceleração DIO e GFT Dev-18GFT
+🚀 #Aceleração DIO e GFT Dev-18GFT
 
 Repositório da Aceleração GFT!!
 
